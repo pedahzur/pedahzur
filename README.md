@@ -13,27 +13,27 @@ My research focuses on **modern warfare and technology**, **terrorism and counte
 ## Books
 
 - *The Triumph of Israel's Radical Right* (Oxford University Press, 2012)
-- - *Jewish Terrorism in Israel* (with Arie Perliger, Columbia University Press, 2011)
-  - - *The Israeli Secret Services and the Struggle against Terrorism* (Columbia University Press, 2010)
-   
-    - ---
+- *Jewish Terrorism in Israel* (with Arie Perliger, Columbia University Press, 2011)
+- *The Israeli Secret Services and the Struggle against Terrorism* (Columbia University Press, 2010)
 
-    ## Links
+---
 
-    - 🌐 [Academic Profile](https://marsci.haifa.ac.il/en/ami-pedahzur/)
-    - - 📖 [ORCID](https://orcid.org/0000-0002-0925-4993)
-      - - 🔬 [Google Scholar](https://scholar.google.com/citations?user=pedahzur)
-        - - 🐦 [Twitter/X](https://twitter.com/APedahzur)
-          - - 💼 [LinkedIn](https://linkedin.com/in/pedahzur)
-           
-            - ---
+## Links
 
-            ## Research on GitHub
+- 🌐 [Academic Profile](https://marsci.haifa.ac.il/en/ami-pedahzur/)
+- 📖 [ORCID](https://orcid.org/0000-0002-0925-4993)
+- 🐦 [Twitter/X](https://twitter.com/APedahzur)
+- 💼 [LinkedIn](https://linkedin.com/in/pedahzur)
 
-            This account hosts data, code, and materials associated with my research projects, including:
+---
 
-            - **[Kristallnacht](https://github.com/pedahzur/Kristallnacht)** — Version control and materials for the Kristallnacht 2026 research project
-            - - **[Turkey-GTD](https://github.com/pedahzur/Turkey-GTD)** — Data and analysis on terrorist attacks in Turkey using the Global Terrorism Database
-              - - **[Settlements](https://github.com/pedahzur/settlements)** — Geo-coded data on Jewish settlements in the West Bank
-                - - **[COVID-19-Figures](https://github.com/pedahzur/COVID-19-Figures)** — Visualizations and analysis related to COVID-19 data
-                  - - **[Evolving-Paradigms](https://github.com/pedahzur/Evolving-Paradigms)** — Materials for research on evolving paradigms in security studies
+## Research on GitHub
+
+This account hosts data, code, and materials associated with my research projects, including:
+
+- **[Kristallnacht](https://github.com/pedahzur/Kristallnacht)** — Version control and materials for the Kristallnacht 2026 research project
+- **[Turkey-GTD](https://github.com/pedahzur/Turkey-GTD)** — Data and analysis on terrorist attacks in Turkey using the Global Terrorism Database
+- **[Settlements](https://github.com/pedahzur/settlements)** — Geo-coded data on Jewish settlements in the West Bank
+- **[COVID-19-Figures](https://github.com/pedahzur/COVID-19-Figures)** — Visualizations and analysis related to COVID-19 data
+- **[Evolving-Paradigms](https://github.com/pedahzur/Evolving-Paradigms)** — Materials for research on evolving paradigms in security studies
+
