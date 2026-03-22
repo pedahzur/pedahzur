@@ -32,8 +32,4 @@ My research focuses on **modern warfare and technology**, **terrorism and counte
 This account hosts data, code, and materials associated with my research projects, including:
 
 - **[Kristallnacht](https://github.com/pedahzur/Kristallnacht)** — Version control and materials for the Kristallnacht 2026 research project
-- **[Turkey-GTD](https://github.com/pedahzur/Turkey-GTD)** — Data and analysis on terrorist attacks in Turkey using the Global Terrorism Database
 - **[Settlements](https://github.com/pedahzur/settlements)** — Geo-coded data on Jewish settlements in the West Bank
-- **[COVID-19-Figures](https://github.com/pedahzur/COVID-19-Figures)** — Visualizations and analysis related to COVID-19 data
-- **[Evolving-Paradigms](https://github.com/pedahzur/Evolving-Paradigms)** — Materials for research on evolving paradigms in security studies
-
