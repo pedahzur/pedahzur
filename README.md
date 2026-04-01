@@ -1,6 +1,6 @@
 # Ami Pedahzur
 
-**Professor | University of Haifa | Maritime Strategy, Terrorism & Geopolitics**
+**Professor | University of Haifa**
 
 I am a Professor at the [Leon H. Charney School of Marine Sciences](https://marsci.haifa.ac.il/en/ami-pedahzur/) and the Department of Middle Eastern and Islamic Studies at the University of Haifa. I direct four research units: the Chaikin Chair for Geo-Strategy, the Ezri Center for Iran and Gulf States Research, the Maritime Policy & Strategy Research Center, and the Wydra Division for Shipping & Ports. I also lead the MA program in Maritime Strategy.
 
