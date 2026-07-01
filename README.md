@@ -29,7 +29,13 @@ My research focuses on **modern warfare and technology**, **terrorism and counte
 
 ## Research on GitHub
 
-This account hosts data, code, and materials associated with my research projects, including:
+This account hosts data, code, and materials associated with my research projects. A few public highlights:
 
-- **[Kristallnacht](https://github.com/pedahzur/Kristallnacht)** — Version control and materials for the Kristallnacht 2026 research project
-- **[Settlements](https://github.com/pedahzur/settlements)** — Geo-coded data on Jewish settlements in the West Bank
+- **[Conceptualization](https://github.com/pedahzur/Conceptualization)** — A reproducible content analysis of how "special operations forces" is defined across 69 sources (1944–2018), built for a forthcoming book on the global rise of Israel's SOF.
+- **[historical-entity-tracker](https://github.com/pedahzur/historical-entity-tracker)** — A tool for tracing people, organizations, places, and events across a multilingual historical corpus to support causality analysis.
+- **[October_7](https://github.com/pedahzur/October_7)** — Workflow and data for research on special operations forces during the October 7 attack.
+- **[Evolving-Paradigms](https://github.com/pedahzur/Evolving-Paradigms)** — Materials and data for research on evolving paradigms in security studies and modern warfare.
+
+### Using this work
+
+Data and code here are shared to support open, reproducible research. If you build on a repository, please cite it (see each repo's README or CITATION file) and check its license for reuse terms. Corrections and contributions are welcome via issues and pull requests.
