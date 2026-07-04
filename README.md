@@ -34,7 +34,6 @@ This account hosts data, code, and materials associated with my research project
 - **[Conceptualization](https://github.com/pedahzur/Conceptualization)** — A reproducible content analysis of how "special operations forces" is defined across 69 sources (1944–2018), built for a forthcoming book on the global rise of Israel's SOF.
 - **[historical-entity-tracker](https://github.com/pedahzur/historical-entity-tracker)** — A tool for tracing people, organizations, places, and events across a multilingual historical corpus to support causality analysis.
 - **[October_7](https://github.com/pedahzur/October_7)** — Workflow and data for research on special operations forces during the October 7 attack.
-- **[Evolving-Paradigms](https://github.com/pedahzur/Evolving-Paradigms)** — Materials and data for research on evolving paradigms in security studies and modern warfare.
 
 ### Using this work
 
