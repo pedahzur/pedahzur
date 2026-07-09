@@ -2,39 +2,37 @@
 
 **Professor | University of Haifa**
 
-I am a Professor at the [Leon H. Charney School of Marine Sciences](https://marsci.haifa.ac.il/en/ami-pedahzur/) and the Department of Middle Eastern and Islamic Studies at the University of Haifa. I direct four research units: the Chaikin Chair for Geo-Strategy, the Ezri Center for Iran and Gulf States Research, the Maritime Policy & Strategy Research Center, and the Wydra Division for Shipping & Ports. I also lead the MA program in Maritime Strategy.
+I am a Professor at the Leon H. Charney School of Marine Sciences and the Department of Middle Eastern and Islamic Studies at the University of Haifa. I direct four research units: the Chaikin Chair for Geo-Strategy, the Ezri Center for Iran and Gulf States Research, the Maritime Policy & Strategy Research Center, and the Wydra Division for Shipping & Ports. I also lead the MA program in Maritime Strategy.
 
 From 2005 to 2023, I was a Professor in the Department of Government at The University of Texas at Austin, where I held the Ralph W. Yarborough Centennial Professorship of Liberal Arts.
 
-My research focuses on **modern warfare and technology**, **terrorism and counterterrorism**, **political extremism**, and **geostrategy**. I hold a Ph.D. in Political Science from the University of Haifa.
+My research focuses on modern warfare and technology, terrorism and counterterrorism, political extremism, and geostrategy. I hold a Ph.D. in Political Science from the University of Haifa.
 
----
+Featured project site: [pedahzur.github.io/October_7](https://pedahzur.github.io/October_7/) — interactive map, infographics, and inferential statistics on special operations forces during the October 7 attack (English and Hebrew).
+
+## AI-Assisted Research Methods for the Social Sciences
+
+This account hosts a research program on the use of large language models in social science research. The repositories serve two projects: a book on the global rise of Israel's special operations forces (Oxford University Press) and a series of articles on research methods in the era of AI. Each repository demonstrates one method, end to end, with the AI workflow documented: which model, which prompts, and where a human validates the output. The pipeline is part of the argument.
+
+**[Conceptualization](https://github.com/pedahzur/Conceptualization)** — LLM-assisted content analysis of a contested concept. A corpus of 69 definitions of "special operations forces" (1944–2018) is coded on four dimensions, cross-tabulated by period and region, and mapped with multiple correspondence analysis. The concept behaves as a family-resemblance category; the repository proposes a Goertz-style reconceptualization.
+
+**[historical-entity-tracker](https://github.com/pedahzur/historical-entity-tracker)** — Extraction and resolution of people, organizations, places, and events across a multilingual historical corpus. Claude structured outputs handle extraction; cross-document resolution proposes links with confidence scores and source quotes; a historian adjudicates in Notion. Design principle: "same place + same time" is a hypothesis, not a fact.
+
+**[October_7](https://github.com/pedahzur/October_7)** — A reproducible event dataset of Israeli unit deployments during the October 7 attack, with descriptive infographics, cluster-robust inference, and an interactive project website. Includes the consolidated Evolving-Paradigms materials on security studies and modern warfare.
 
 ## Books
 
-- *The Triumph of Israel's Radical Right* (Oxford University Press, 2012)
-- *Jewish Terrorism in Israel* (with Arie Perliger, Columbia University Press, 2011)
-- *The Israeli Secret Services and the Struggle against Terrorism* (Columbia University Press, 2010)
-
----
+- The Triumph of Israel's Radical Right (Oxford University Press, 2012)
+- Jewish Terrorism in Israel (with Arie Perliger, Columbia University Press, 2011)
+- The Israeli Secret Services and the Struggle against Terrorism (Columbia University Press, 2010)
 
 ## Links
 
-- 🌐 [Academic Profile](https://marsci.haifa.ac.il/en/ami-pedahzur/)
-- 📖 [ORCID](https://orcid.org/0000-0002-0925-4993)
-- 🐦 [Twitter/X](https://twitter.com/APedahzur)
-- 💼 [LinkedIn](https://linkedin.com/in/pedahzur)
+- 🌐 Academic Profile
+- 📖 ORCID
+- 🐦 Twitter/X
+- 💼 LinkedIn
 
----
+## Using this work
 
-## Research on GitHub
-
-This account hosts data, code, and materials associated with my research projects. A few public highlights:
-
-- **[Conceptualization](https://github.com/pedahzur/Conceptualization)** — A reproducible content analysis of how "special operations forces" is defined across 69 sources (1944–2018), built for a forthcoming book on the global rise of Israel's SOF.
-- **[historical-entity-tracker](https://github.com/pedahzur/historical-entity-tracker)** — A tool for tracing people, organizations, places, and events across a multilingual historical corpus to support causality analysis.
-- **[October_7](https://github.com/pedahzur/October_7)** — Workflow and data for research on special operations forces during the October 7 attack.
-
-### Using this work
-
-Data and code here are shared to support open, reproducible research. If you build on a repository, please cite it (see each repo's README or CITATION file) and check its license for reuse terms. Corrections and contributions are welcome via issues and pull requests.
+Data and code are shared to support open, reproducible research. Each repository carries a CITATION.cff file (GitHub renders it as a "Cite this repository" button) and a license stating reuse terms. Corrections and contributions are welcome via issues and pull requests.
