@@ -8,6 +8,8 @@ From 2005 to 2023, I was a Professor in the Department of Government at The Univ
 
 My research focuses on modern warfare and technology, terrorism and counterterrorism, political extremism, and geostrategy. I hold a Ph.D. in Political Science from the University of Haifa.
 
+Academic website: [pedahzur.github.io/A.M.Pedahzur](https://pedahzur.github.io/A.M.Pedahzur/)
+
 Featured project site: [pedahzur.github.io/October_7](https://pedahzur.github.io/October_7/) — interactive map, infographics, and inferential statistics on special operations forces during the October 7 attack (English and Hebrew).
 
 ## AI-Assisted Research Methods for the Social Sciences
@@ -28,7 +30,7 @@ This account hosts a research program on the use of large language models in soc
 
 ## Links
 
-- 🌐 Academic Profile
+- 🌐 [Academic Website](https://pedahzur.github.io/A.M.Pedahzur/)
 - 📖 ORCID
 - 🐦 Twitter/X
 - 💼 LinkedIn
