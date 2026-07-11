@@ -22,6 +22,8 @@ This account hosts a research program on the use of large language models in soc
 
 **[October_7](https://github.com/pedahzur/October_7)** — A reproducible event dataset of Israeli unit deployments during the October 7 attack, with descriptive infographics, cluster-robust inference, and an interactive project website. Includes the consolidated Evolving-Paradigms materials on security studies and modern warfare.
 
+**[Settlements — work in progress](https://pedahzur.github.io/settlements/)** — A settlement-level quantitative panel combining population, voting, socio-economic, built-up-area, and geospatial data for the West Bank, East Jerusalem, and the Golan Heights. The linked interactive map and underlying research pipeline are under active development.
+
 ## Books
 
 - The Triumph of Israel's Radical Right (Oxford University Press, 2012)
@@ -37,4 +39,4 @@ This account hosts a research program on the use of large language models in soc
 
 ## Using this work
 
-Data and code are shared to support open, reproducible research. Each repository carries a CITATION.cff file (GitHub renders it as a "Cite this repository" button) and a license stating reuse terms. Corrections and contributions are welcome via issues and pull requests.
+Data and code are shared to support open, reproducible research. Reuse terms and citation guidance, where available, are documented in the relevant repository. Corrections and contributions are welcome via issues and pull requests.
