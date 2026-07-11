@@ -22,7 +22,7 @@ This account hosts a research program on the use of large language models in soc
 
 **[October_7](https://github.com/pedahzur/October_7)** — A reproducible event dataset of Israeli unit deployments during the October 7 attack, with descriptive infographics, cluster-robust inference, and an interactive project website. Includes the consolidated Evolving-Paradigms materials on security studies and modern warfare.
 
-**[Settlements — work in progress](https://pedahzur.github.io/settlements/)** — A settlement-level quantitative panel combining population, voting, socio-economic, built-up-area, and geospatial data for the West Bank, East Jerusalem, and the Golan Heights. The linked interactive map and underlying research pipeline are under active development.
+**[Settlements — work in progress](https://github.com/pedahzur/settlements)** — A settlement-level quantitative panel combining population, voting, socio-economic, built-up-area, and geospatial data for the West Bank, East Jerusalem, and the Golan Heights. The public release includes a reproducible pipeline and an [interactive map](https://pedahzur.github.io/settlements/); the data model and matching decisions remain under active development.
 
 ## Books
 
