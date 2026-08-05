@@ -33,9 +33,9 @@ This account hosts a research program on the use of large language models in soc
 ## Links
 
 - 🌐 [Academic Website](https://pedahzur.github.io/A.M.Pedahzur/)
-- 📖 ORCID
-- 🐦 Twitter/X
-- 💼 LinkedIn
+- 📖 [ORCID](https://orcid.org/0000-0002-0925-4993)
+- 🐦 [Twitter/X](https://x.com/APedahzur)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pedahzur)
 
 ## Using this work
 
