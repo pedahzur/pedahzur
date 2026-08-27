@@ -2,7 +2,7 @@
 
 **Professor | University of Haifa**
 
-I am a Professor at the Leon H. Charney School of Marine Sciences and the Department of Middle Eastern and Islamic Studies at the University of Haifa. I direct four research units: the Chaikin Chair for Geo-Strategy, the Ezri Center for Iran and Gulf States Research, the Maritime Policy & Strategy Research Center, and the Wydra Division for Shipping & Ports. I also lead the MA program in Maritime Strategy.
+I am a Professor at the Leon H. Charney School of Marine Sciences and the Department of Middle Eastern and Islamic Studies at the University of Haifa. I direct the Chaikin Institute for Geo-Strategy. 
 
 From 2005 to 2023, I was a Professor in the Department of Government at The University of Texas at Austin, where I held the Ralph W. Yarborough Centennial Professorship of Liberal Arts.
 
